@@ -72,6 +72,7 @@ Hi! I'm **Angelo**, a Full Stack Developer based in **Rome, Italy** 🇮🇹
 | [🔍 elf-inspector](https://github.com/AngeloRusu24/elf-inspector) | Binary ELF file parser | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white) |
 | [🔌 portscan-rs](https://github.com/AngeloRusu24/portscan-rs) | Fast concurrent TCP port scanner | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white) |
 | [📚 Eramus](https://github.com/AngeloRusu24/Eramus) | Erasmus companion app | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) |
+| [🌍 LocalPro](https://github.com/AngeloRusu24/LocalPro) | Local project management tool | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) |
 
 ---
 
