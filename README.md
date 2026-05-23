@@ -90,8 +90,8 @@ fn main() {
 |--------|-------------|------|
 | [🔍 elf-inspector](https://github.com/AngeloRusu24/elf-inspector) | Binary ELF file parser | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
 | [🔌 portscan-rs](https://github.com/AngeloRusu24/portscan-rs) | Fast concurrent TCP port scanner | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
-| [🌍 LocalPro](https://github.com/AngeloRusu24/LocalPro) | Local project management tool | — |
-| [📚 Eramus](https://github.com/AngeloRusu24/Eramus) | Erasmus companion app | — |
+| [🌍 LocalPro](https://github.com/AngeloRusu24/LocalPro) | Local project management tool | — | [!Java] - [Angular]
+| [📚 Eramus](https://github.com/AngeloRusu24/Eramus) | Erasmus companion app | — | [Ruby]
 
 ---
 
