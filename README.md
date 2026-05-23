@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Rust+%7C+Web+%7C+Systems+Programming;Building+cool+stuff+from+Rome+%F0%9F%87%AE%F0%9F%87%B9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Rust+%7C+Angular+%7C+Web;Building+cool+stuff+from+Rome+%F0%9F%87%AE%F0%9F%87%B9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,46 +14,34 @@
 
 ## 👨‍💻 About Me
 
-```rust
-struct Developer {
-    name:     &'static str,
-    location: &'static str,
-    focus:    Vec<&'static str>,
-    learning: Vec<&'static str>,
-}
+Hi! I'm **Angelo**, a Full Stack Developer based in **Rome, Italy** 🇮🇹
 
-fn main() {
-    let me = Developer {
-        name:     "Angelo Rusu",
-        location: "Rome, Italy 🇮🇹",
-        focus:    vec!["Full Stack", "Systems Programming", "Rust"],
-        learning: vec!["Cloud Architecture", "DevOps", "Web Performance"],
-    };
-    println!("Hello, world! I'm {}", me.name);
-}
-```
+- 🔭 Currently working on **LocalPro** — a project management tool built with Java & Angular
+- 🦀 I love low-level programming with **Rust** — from ELF parsers to port scanners
+- 🌱 Always exploring new technologies across the stack
+- 📫 Reach me at **angelorusu24@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🦀 Systems & Backend
+### ☕ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -62,7 +50,6 @@ fn main() {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloRusu24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloRusu24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,10 +75,10 @@ fn main() {
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔍 elf-inspector](https://github.com/AngeloRusu24/elf-inspector) | Binary ELF file parser | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
-| [🔌 portscan-rs](https://github.com/AngeloRusu24/portscan-rs) | Fast concurrent TCP port scanner | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust) |
-| [🌍 LocalPro](https://github.com/AngeloRusu24/LocalPro) | Local project management tool | — | [!Java] - [Angular]
-| [📚 Eramus](https://github.com/AngeloRusu24/Eramus) | Erasmus companion app | — | [Ruby]
+| [🔍 elf-inspector](https://github.com/AngeloRusu24/elf-inspector) | Binary ELF file parser | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white) |
+| [🔌 portscan-rs](https://github.com/AngeloRusu24/portscan-rs) | Fast concurrent TCP port scanner | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white) |
+| [🌍 LocalPro](https://github.com/AngeloRusu24/LocalPro) | Local project management tool | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) |
+| [📚 Eramus](https://github.com/AngeloRusu24/Eramus) | Erasmus companion app | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) |
 
 ---
 
