@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Rust+%7C+Angular+%7C+Web;Building+cool+stuff+from+Rome+%F0%9F%87%AE%F0%9F%87%B9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Angular+%7C+Rust+%7C+Web;Building+cool+stuff+from+Rome+%F0%9F%87%AE%F0%9F%87%B9;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,9 +16,9 @@
 
 Hi! I'm **Angelo**, a Full Stack Developer based in **Rome, Italy** 🇮🇹
 
-- 🔭 Currently working on **LocalPro** — a project management tool built with Java & Angular
-- 🦀 I love low-level programming with **Rust** — from ELF parsers to port scanners
-- 🌱 Always exploring new technologies across the stack
+- 💻 I build end-to-end applications with **Java** on the backend and **Angular** on the frontend
+- 🦀 I also enjoy low-level programming with **Rust** — from ELF parsers to port scanners
+- 🌱 Always exploring new technologies across the full stack
 - 📫 Reach me at **angelorusu24@gmail.com**
 
 ---
@@ -49,12 +49,6 @@ Hi! I'm **Angelo**, a Full Stack Developer based in **Rome, Italy** 🇮🇹
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngeloRusu24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AngeloRusu24&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
@@ -77,7 +71,6 @@ Hi! I'm **Angelo**, a Full Stack Developer based in **Rome, Italy** 🇮🇹
 |--------|-------------|------|
 | [🔍 elf-inspector](https://github.com/AngeloRusu24/elf-inspector) | Binary ELF file parser | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white) |
 | [🔌 portscan-rs](https://github.com/AngeloRusu24/portscan-rs) | Fast concurrent TCP port scanner | ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white) |
-| [🌍 LocalPro](https://github.com/AngeloRusu24/LocalPro) | Local project management tool | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) |
 | [📚 Eramus](https://github.com/AngeloRusu24/Eramus) | Erasmus companion app | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) |
 
 ---
